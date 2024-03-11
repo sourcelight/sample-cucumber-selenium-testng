@@ -1,6 +1,6 @@
 # TestNg integrated with Cucumber/Selenium
 
-Below briefly  all the frameworks are connected:
+Below briefly  all the frameworks involved:
 
 * testNg => Improved annotations over JUnit, we can run with multiple thread, parallelism, etc
 * Cucumber => Good test interpretable by nearly any kind of stackholders
